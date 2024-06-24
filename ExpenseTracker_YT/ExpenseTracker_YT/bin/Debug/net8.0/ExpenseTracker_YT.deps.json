@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExpenseTracker_YT/1.0.0": {
+        "runtime": {
+          "ExpenseTracker_YT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpenseTracker_YT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
